@@ -2,6 +2,11 @@ package studentinfo;
 
 import java.util.*;
 
+/**
+ * Provide a representation of a single-semester
+ * session of specific university course.
+ * @author Administrator
+ */
 public class CourseSession {
 	private String department; 
 	private String number;
