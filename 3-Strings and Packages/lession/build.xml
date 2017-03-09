@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="agileJava" default="junitgui" basedir=".">
-	<property name="junitJar" value="..\junit-3.8.1.jar"/>
+	<property name="junitJar" value="..\..\junit-3.8.1.jar"/>
 	<property name="src.dir" value="${basedir}/source"/>
 	<property name="bin.dir" value="${basedir}/classes"/>
 
